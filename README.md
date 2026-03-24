@@ -40,9 +40,9 @@ Inventory review → category mapping → product upload → pricing setup → i
 
 ## Project Metrics
 
-- Number of products uploaded: (insert number)
-- Number of categories created: (insert number)
-- Completion timeline: (example: 24–48 hours)
+- Number of products uploaded: 974
+- Number of categories created: 25
+- Completion timeline: 48 hours
 
 ---
 
