@@ -44,6 +44,7 @@ Example category structure used:
 - Gastrointestinal Products
 - Supplements
 - Personal Care
+<img width="1894" height="956" alt="Screenshot 2026-03-24 111127" src="https://github.com/user-attachments/assets/7dfffda8-92dd-45b4-9aa7-36dc279c96e6" />
 
 ---
 
